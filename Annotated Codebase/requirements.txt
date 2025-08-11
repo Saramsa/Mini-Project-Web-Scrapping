@@ -1,0 +1,8 @@
+matplotlib
+nltk
+numpy
+pandas
+plotly
+selenium
+undetected-chromedriver
+wordcloud

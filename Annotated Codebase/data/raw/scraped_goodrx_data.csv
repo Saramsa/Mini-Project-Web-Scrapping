@@ -1,0 +1,383 @@
+drug,location,dosage,quantity,pharmacy,price,special_offer,standard_coupon_price,special_coupon_price
+Atorvastatin,10001,40mg,30 tablets,CVS Pharmacy,$19.67,Special offers,28.77,19.67
+Atorvastatin,10001,40mg,30 tablets,Walgreens,$11.72,Special offers,21.72,11.72
+Atorvastatin,10001,40mg,30 tablets,ShopRite,$10.34,No special offer,N/A,N/A
+Atorvastatin,10001,40mg,30 tablets,Walmart,$7.74,Special offers,15.24,7.74
+Atorvastatin,10001,40mg,30 tablets,Duane Reade,$11.72,Special offers,21.72,11.72
+Atorvastatin,10001,40mg,30 tablets,Target (CVS),$19.67,Special offers,28.77,19.67
+Atorvastatin,10001,40mg,30 tablets,Costco,$16.66,Special offers,21.66,16.66
+Atorvastatin,10001,40mg,30 tablets,"Acme Markets Pharmacy
+Pay online",$7.53,Special offers,49.99,7.53
+Atorvastatin,10001,40mg,30 tablets,Capsule Pharmacy,$17.93,No special offer,N/A,N/A
+Atorvastatin,10001,40mg,30 tablets,Wegmans,$6.89,Special offers,12.39,6.89
+Atorvastatin,10001,40mg,30 tablets,"ACME Sav-On
+Pay online",$7.53,Special offers,49.99,7.53
+Atorvastatin,10001,40mg,30 tablets,Walgreens Specialty Pharmacy,$11.72,Special offers,21.72,11.72
+Atorvastatin,10001,40mg,30 tablets,Walmart Neighborhood Market,$7.74,Special offers,15.24,7.74
+Atorvastatin,10001,40mg,30 tablets,King Kullen,$6.79,Special offers,10.34,6.79
+Atorvastatin,10001,40mg,30 tablets,Rite Aid,$11.89,No special offer,N/A,N/A
+Atorvastatin,90001,40mg,30 tablets,CVS Pharmacy,$19.67,Special offers,28.77,19.67
+Atorvastatin,90001,40mg,30 tablets,Walgreens,$11.72,Special offers,21.72,11.72
+Atorvastatin,90001,40mg,30 tablets,"Vons Pharmacy
+Pay online",$7.53,Special offers,49.99,7.53
+Atorvastatin,90001,40mg,30 tablets,Walmart,$7.74,Special offers,15.24,7.74
+Atorvastatin,90001,40mg,30 tablets,"Albertsons (Sav-on)
+Pay online",$7.53,Special offers,49.99,7.53
+Atorvastatin,90001,40mg,30 tablets,Costco,$16.66,Special offers,21.66,16.66
+Atorvastatin,90001,40mg,30 tablets,Target (CVS),$19.67,Special offers,28.77,19.67
+Atorvastatin,90001,40mg,30 tablets,Walmart Neighborhood Market,$7.74,Special offers,15.24,7.74
+Atorvastatin,90001,40mg,30 tablets,Ralphs,$10.54,No special offer,N/A,N/A
+Atorvastatin,90001,40mg,30 tablets,"Pavilions Pharmacy
+Pay online",$7.53,Special offers,49.99,7.53
+Atorvastatin,90001,40mg,30 tablets,Walgreens Specialty Pharmacy,$11.72,Special offers,21.72,11.72
+Atorvastatin,90001,40mg,30 tablets,Capsule Pharmacy,$17.93,No special offer,N/A,N/A
+Atorvastatin,90001,40mg,30 tablets,Rite Aid,$11.89,No special offer,N/A,N/A
+Atorvastatin,60601,40mg,30 tablets,Walgreens,$11.72,Special offers,21.72,11.72
+Atorvastatin,60601,40mg,30 tablets,Jewel-Osco,$7.53,Special offers,49.99,7.53
+Atorvastatin,60601,40mg,30 tablets,CVS Pharmacy,$19.67,Special offers,28.77,19.67
+Atorvastatin,60601,40mg,30 tablets,Meijer Pharmacy,$10.25,No special offer,N/A,N/A
+Atorvastatin,60601,40mg,30 tablets,Walmart,$7.74,Special offers,15.24,7.74
+Atorvastatin,60601,40mg,30 tablets,Target (CVS),$19.67,Special offers,28.77,19.67
+Atorvastatin,60601,40mg,30 tablets,Costco,$16.66,Special offers,21.66,16.66
+Atorvastatin,60601,40mg,30 tablets,Mariano's,$10.54,No special offer,N/A,N/A
+Atorvastatin,60601,40mg,30 tablets,Walgreens Specialty Pharmacy,$11.72,Special offers,21.72,11.72
+Atorvastatin,60601,40mg,30 tablets,Walmart Neighborhood Market,$7.74,Special offers,15.24,7.74
+Atorvastatin,60601,40mg,30 tablets,Aurora Pharmacy,$8.99,No special offer,N/A,N/A
+Atorvastatin,60601,40mg,30 tablets,Capsule Pharmacy,$17.93,No special offer,N/A,N/A
+Lisinopril,10001,20mg,30 tablets,CVS Pharmacy,$8.57,Special offers,23.57,8.57
+Lisinopril,10001,20mg,30 tablets,Walgreens,$4.83,Special offers,17.33,4.83
+Lisinopril,10001,20mg,30 tablets,ShopRite,$5.85,Special offers,9.84,5.85
+Lisinopril,10001,20mg,30 tablets,Target (CVS),$8.57,Special offers,23.57,8.57
+Lisinopril,10001,20mg,30 tablets,"Acme Markets Pharmacy
+Pay online",$2.00,Special offers,8.16,2.00
+Lisinopril,10001,20mg,30 tablets,Duane Reade,$4.83,Special offers,17.33,4.83
+Lisinopril,10001,20mg,30 tablets,Capsule Pharmacy,$17.34,No special offer,N/A,N/A
+Lisinopril,10001,20mg,30 tablets,Costco,$8.66,Special offers,13.66,8.66
+Lisinopril,10001,20mg,30 tablets,Wegmans,$3.25,Special offers,7.75,3.25
+Lisinopril,10001,20mg,30 tablets,"ACME Sav-On
+Pay online",$2.00,Special offers,8.16,2.00
+Lisinopril,10001,20mg,30 tablets,Sams Club,$7.84,Special offers,10.34,7.84
+Lisinopril,10001,20mg,30 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Lisinopril,10001,20mg,30 tablets,Walgreens Specialty Pharmacy,$4.83,Special offers,17.33,4.83
+Lisinopril,90001,20mg,30 tablets,CVS Pharmacy,$8.57,Special offers,23.57,8.57
+Lisinopril,60601,20mg,30 tablets,Walgreens,$4.83,Special offers,17.33,4.83
+Lisinopril,60601,20mg,30 tablets,Jewel-Osco,$2.00,Special offers,8.16,2.00
+Lisinopril,60601,20mg,30 tablets,CVS Pharmacy,$8.57,Special offers,23.57,8.57
+Lisinopril,60601,20mg,30 tablets,Meijer Pharmacy,$8.47,No special offer,N/A,N/A
+Lisinopril,60601,20mg,30 tablets,Target (CVS),$8.57,Special offers,23.57,8.57
+Lisinopril,60601,20mg,30 tablets,Costco,$8.66,Special offers,13.66,8.66
+Lisinopril,60601,20mg,30 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Lisinopril,60601,20mg,30 tablets,Mariano's,$7.79,No special offer,N/A,N/A
+Lisinopril,60601,20mg,30 tablets,Sams Club,$7.84,Special offers,10.34,7.84
+Lisinopril,60601,20mg,30 tablets,Aurora Pharmacy,$5.92,No special offer,N/A,N/A
+Lisinopril,60601,20mg,30 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Lisinopril,60601,20mg,30 tablets,Walgreens Specialty Pharmacy,$4.83,Special offers,17.33,4.83
+Lisinopril,60601,20mg,30 tablets,Capsule Pharmacy,$17.34,No special offer,N/A,N/A
+Metformin,10001,500mg,60 tablets,CVS Pharmacy,$19.64,Special offers,28.74,19.64
+Metformin,10001,500mg,60 tablets,Walgreens,$4.86,Special offers,19.86,4.86
+Metformin,10001,500mg,60 tablets,Duane Reade,$4.86,Special offers,19.86,4.86
+Metformin,10001,500mg,60 tablets,Target (CVS),$19.64,Special offers,28.74,19.64
+Metformin,10001,500mg,60 tablets,ShopRite,$7.97,Special offers,10.00,7.97
+Metformin,10001,500mg,60 tablets,Capsule Pharmacy,$20.43,No special offer,N/A,N/A
+Metformin,10001,500mg,60 tablets,"Acme Markets Pharmacy
+Pay online",$2.00,Special offers,9.74,2.00
+Metformin,10001,500mg,60 tablets,Costco,$13.99,Special offers,16.99,13.99
+Metformin,10001,500mg,60 tablets,Wegmans,$2.82,Special offers,8.32,2.82
+Metformin,10001,500mg,60 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Metformin,10001,500mg,60 tablets,Walgreens Specialty Pharmacy,$4.86,Special offers,19.86,4.86
+Metformin,10001,500mg,60 tablets,"ACME Sav-On
+Pay online",$2.00,Special offers,9.74,2.00
+Metformin,10001,500mg,60 tablets,Sams Club,$9.82,No special offer,N/A,N/A
+Metformin,10001,500mg,60 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Metformin,10001,500mg,60 tablets,King Kullen,$6.52,Special offers,10.00,6.52
+Metformin,10001,500mg,60 tablets,Rite Aid,$11.36,No special offer,N/A,N/A
+Metformin,90001,500mg,60 tablets,CVS Pharmacy,$19.64,Special offers,28.74,19.64
+Metformin,90001,500mg,60 tablets,Walgreens,$4.86,Special offers,19.86,4.86
+Metformin,90001,500mg,60 tablets,"Vons Pharmacy
+Pay online",$2.00,Special offers,9.74,2.00
+Metformin,90001,500mg,60 tablets,"Albertsons (Sav-on)
+Pay online",$2.00,Special offers,9.74,2.00
+Metformin,90001,500mg,60 tablets,Target (CVS),$19.64,Special offers,28.74,19.64
+Metformin,90001,500mg,60 tablets,"Pavilions Pharmacy
+Pay online",$2.00,Special offers,9.74,2.00
+Metformin,90001,500mg,60 tablets,Costco,$13.99,Special offers,16.99,13.99
+Metformin,90001,500mg,60 tablets,Ralphs,$14.87,No special offer,N/A,N/A
+Metformin,90001,500mg,60 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Metformin,90001,500mg,60 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Metformin,90001,500mg,60 tablets,Sams Club,$9.82,No special offer,N/A,N/A
+Metformin,90001,500mg,60 tablets,Walgreens Specialty Pharmacy,$4.86,Special offers,19.86,4.86
+Metformin,90001,500mg,60 tablets,Rite Aid,$11.36,No special offer,N/A,N/A
+Metformin,90001,500mg,60 tablets,Capsule Pharmacy,$20.43,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Walgreens,$4.86,Special offers,19.86,4.86
+Metformin,60601,500mg,60 tablets,Jewel-Osco,$2.00,Special offers,9.74,2.00
+Metformin,60601,500mg,60 tablets,CVS Pharmacy,$19.64,Special offers,28.74,19.64
+Metformin,60601,500mg,60 tablets,Meijer Pharmacy,$8.18,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Target (CVS),$19.64,Special offers,28.74,19.64
+Metformin,60601,500mg,60 tablets,Costco,$13.99,Special offers,16.99,13.99
+Metformin,60601,500mg,60 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Mariano's,$14.87,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Sams Club,$9.82,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Aurora Pharmacy,$6.89,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Metformin,60601,500mg,60 tablets,Walgreens Specialty Pharmacy,$4.86,Special offers,19.86,4.86
+Metformin,60601,500mg,60 tablets,Capsule Pharmacy,$20.43,No special offer,N/A,N/A
+Amlodipine,10001,10mg,30 tablets,CVS Pharmacy,$19.22,Special offers,28.32,19.22
+Amlodipine,10001,10mg,30 tablets,Walgreens,$10.13,Special offers,17.63,10.13
+Amlodipine,10001,10mg,30 tablets,ShopRite,$10.44,No special offer,N/A,N/A
+Amlodipine,10001,10mg,30 tablets,Duane Reade,$10.13,Special offers,17.63,10.13
+Amlodipine,10001,10mg,30 tablets,Costco,$12.99,Special offers,17.99,12.99
+Amlodipine,10001,10mg,30 tablets,Target (CVS),$19.22,Special offers,28.32,19.22
+Amlodipine,10001,10mg,30 tablets,Capsule Pharmacy,$18.86,No special offer,N/A,N/A
+Amlodipine,10001,10mg,30 tablets,"Acme Markets Pharmacy
+Pay online",$2.88,Special offers,7.88,2.88
+Amlodipine,10001,10mg,30 tablets,Wegmans,$3.05,Special offers,8.05,3.05
+Amlodipine,10001,10mg,30 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Amlodipine,10001,10mg,30 tablets,"ACME Sav-On
+Pay online",$2.88,Special offers,7.88,2.88
+Amlodipine,10001,10mg,30 tablets,Sams Club,$7.26,Special offers,9.76,7.26
+Amlodipine,10001,10mg,30 tablets,Walgreens Specialty Pharmacy,$10.13,Special offers,17.63,10.13
+Amlodipine,10001,10mg,30 tablets,King Kullen,$6.05,Special offers,10.44,6.05
+Amlodipine,10001,10mg,30 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Amlodipine,10001,10mg,30 tablets,Rite Aid,$11.02,No special offer,N/A,N/A
+Amlodipine,90001,10mg,30 tablets,CVS Pharmacy,$19.22,Special offers,28.32,19.22
+Amlodipine,90001,10mg,30 tablets,Walgreens,$10.13,Special offers,17.63,10.13
+Amlodipine,90001,10mg,30 tablets,"Albertsons (Sav-on)
+Pay online",$2.88,Special offers,7.88,2.88
+Amlodipine,90001,10mg,30 tablets,"Vons Pharmacy
+Pay online",$2.88,Special offers,7.88,2.88
+Amlodipine,90001,10mg,30 tablets,Costco,$12.99,Special offers,17.99,12.99
+Amlodipine,90001,10mg,30 tablets,Target (CVS),$19.22,Special offers,28.32,19.22
+Amlodipine,90001,10mg,30 tablets,"Pavilions Pharmacy
+Pay online",$2.88,Special offers,7.88,2.88
+Amlodipine,90001,10mg,30 tablets,Ralphs,$7.53,No special offer,N/A,N/A
+Amlodipine,90001,10mg,30 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Amlodipine,90001,10mg,30 tablets,Walgreens Specialty Pharmacy,$10.13,Special offers,17.63,10.13
+Amlodipine,90001,10mg,30 tablets,Sams Club,$7.26,Special offers,9.76,7.26
+Amlodipine,90001,10mg,30 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Amlodipine,90001,10mg,30 tablets,Rite Aid,$11.02,No special offer,N/A,N/A
+Amlodipine,90001,10mg,30 tablets,Capsule Pharmacy,$18.86,No special offer,N/A,N/A
+Amlodipine,60601,10mg,30 tablets,Walgreens,$10.13,Special offers,17.63,10.13
+Amlodipine,60601,10mg,30 tablets,Jewel-Osco,$2.88,Special offers,7.88,2.88
+Amlodipine,60601,10mg,30 tablets,Meijer Pharmacy,$8.70,No special offer,N/A,N/A
+Amlodipine,60601,10mg,30 tablets,CVS Pharmacy,$19.22,Special offers,28.32,19.22
+Amlodipine,60601,10mg,30 tablets,Costco,$12.99,Special offers,17.99,12.99
+Amlodipine,60601,10mg,30 tablets,Target (CVS),$19.22,Special offers,28.32,19.22
+Amlodipine,60601,10mg,30 tablets,Walmart,$9.00,No special offer,N/A,N/A
+Amlodipine,60601,10mg,30 tablets,Mariano's,$7.53,No special offer,N/A,N/A
+Amlodipine,60601,10mg,30 tablets,Sams Club,$7.26,Special offers,9.76,7.26
+Amlodipine,60601,10mg,30 tablets,Aurora Pharmacy,$8.07,No special offer,N/A,N/A
+Amlodipine,60601,10mg,30 tablets,Walmart Neighborhood Market,$9.00,No special offer,N/A,N/A
+Amlodipine,60601,10mg,30 tablets,Walgreens Specialty Pharmacy,$10.13,Special offers,17.63,10.13
+Amlodipine,60601,10mg,30 tablets,Capsule Pharmacy,$18.86,No special offer,N/A,N/A
+Omeprazole,10001,40mg,30 capsules,CVS Pharmacy,$20.03,Special offers,29.13,20.03
+Omeprazole,10001,40mg,30 capsules,Walgreens,$18.37,Special offers,20.87,18.37
+Omeprazole,10001,40mg,30 capsules,ShopRite,$10.75,No special offer,N/A,N/A
+Omeprazole,10001,40mg,30 capsules,Duane Reade,$18.37,Special offers,20.87,18.37
+Omeprazole,10001,40mg,30 capsules,Capsule Pharmacy,$23.09,No special offer,N/A,N/A
+Omeprazole,10001,40mg,30 capsules,Costco,$13.66,Special offers,18.66,13.66
+Omeprazole,10001,40mg,30 capsules,Target (CVS),$20.03,Special offers,29.13,20.03
+Omeprazole,10001,40mg,30 capsules,Acme Markets Pharmacy,$7.00,Special offers,10.37,7.00
+Omeprazole,10001,40mg,30 capsules,Walmart,$2.00,Special offers,15.17,2.00
+Omeprazole,10001,40mg,30 capsules,Wegmans,$5.82,Special offers,9.32,5.82
+Omeprazole,10001,40mg,30 capsules,ACME Sav-On,$7.00,Special offers,10.37,7.00
+Omeprazole,10001,40mg,30 capsules,Walgreens Specialty Pharmacy,$18.37,Special offers,20.87,18.37
+Omeprazole,10001,40mg,30 capsules,King Kullen,$8.55,Special offers,10.75,8.55
+Omeprazole,10001,40mg,30 capsules,Walmart Neighborhood Market,$2.00,Special offers,15.17,2.00
+Omeprazole,10001,40mg,30 capsules,Rite Aid,$12.09,No special offer,N/A,N/A
+Omeprazole,90001,40mg,30 capsules,CVS Pharmacy,$20.03,Special offers,29.13,20.03
+Omeprazole,90001,40mg,30 capsules,Vons Pharmacy,$7.00,Special offers,10.37,7.00
+Omeprazole,90001,40mg,30 capsules,Walgreens,$18.37,Special offers,20.87,18.37
+Omeprazole,90001,40mg,30 capsules,Costco,$13.66,Special offers,18.66,13.66
+Omeprazole,90001,40mg,30 capsules,Albertsons (Sav-on),$7.00,Special offers,10.37,7.00
+Omeprazole,90001,40mg,30 capsules,Target (CVS),$20.03,Special offers,29.13,20.03
+Omeprazole,90001,40mg,30 capsules,Pavilions Pharmacy,$7.00,Special offers,10.37,7.00
+Omeprazole,90001,40mg,30 capsules,Ralphs,$8.60,No special offer,N/A,N/A
+Omeprazole,90001,40mg,30 capsules,Walmart,$2.00,Special offers,15.17,2.00
+Omeprazole,90001,40mg,30 capsules,Walgreens Specialty Pharmacy,$18.37,Special offers,20.87,18.37
+Omeprazole,90001,40mg,30 capsules,Walmart Neighborhood Market,$2.00,Special offers,15.17,2.00
+Omeprazole,90001,40mg,30 capsules,Rite Aid,$12.09,No special offer,N/A,N/A
+Omeprazole,90001,40mg,30 capsules,Capsule Pharmacy,$23.09,No special offer,N/A,N/A
+Omeprazole,60601,40mg,30 capsules,Walgreens,$18.37,Special offers,20.87,18.37
+Omeprazole,60601,40mg,30 capsules,Jewel-Osco,$7.00,Special offers,10.37,7.00
+Omeprazole,60601,40mg,30 capsules,Meijer Pharmacy,$10.07,No special offer,N/A,N/A
+Omeprazole,60601,40mg,30 capsules,CVS Pharmacy,$20.03,Special offers,29.13,20.03
+Omeprazole,60601,40mg,30 capsules,Costco,$13.66,Special offers,18.66,13.66
+Omeprazole,60601,40mg,30 capsules,Target (CVS),$20.03,Special offers,29.13,20.03
+Omeprazole,60601,40mg,30 capsules,Walmart,$2.00,Special offers,15.17,2.00
+Omeprazole,60601,40mg,30 capsules,Mariano's,$8.60,No special offer,N/A,N/A
+Omeprazole,60601,40mg,30 capsules,Walgreens Specialty Pharmacy,$18.37,Special offers,20.87,18.37
+Omeprazole,60601,40mg,30 capsules,Aurora Pharmacy,$8.82,No special offer,N/A,N/A
+Omeprazole,60601,40mg,30 capsules,Walmart Neighborhood Market,$2.00,Special offers,15.17,2.00
+Omeprazole,60601,40mg,30 capsules,Capsule Pharmacy,$23.09,No special offer,N/A,N/A
+Simvastatin,10001,20mg,90 tablets,CVS Pharmacy,$28.04,Special offers,33.04,28.04
+Simvastatin,10001,20mg,90 tablets,Walgreens,$33.60,Special offers,36.10,33.60
+Simvastatin,10001,20mg,90 tablets,ShopRite,$13.70,No special offer,N/A,N/A
+Simvastatin,10001,20mg,90 tablets,Target (CVS),$28.04,Special offers,33.04,28.04
+Simvastatin,10001,20mg,90 tablets,Duane Reade,$33.60,Special offers,36.10,33.60
+Simvastatin,10001,20mg,90 tablets,Costco,$21.99,Special offers,24.99,21.99
+Simvastatin,10001,20mg,90 tablets,Capsule Pharmacy,$27.09,No special offer,N/A,N/A
+Simvastatin,10001,20mg,90 tablets,"Acme Markets Pharmacy
+Pay online",$3.05,Special offers,13.05,3.05
+Simvastatin,10001,20mg,90 tablets,Walmart,$24.00,No special offer,N/A,N/A
+Simvastatin,10001,20mg,90 tablets,Wegmans,$13.38,Special offers,18.88,13.38
+Simvastatin,10001,20mg,90 tablets,"ACME Sav-On
+Pay online",$3.05,Special offers,13.05,3.05
+Simvastatin,10001,20mg,90 tablets,Walgreens Specialty Pharmacy,$33.60,Special offers,36.10,33.60
+Simvastatin,10001,20mg,90 tablets,Walmart Neighborhood Market,$24.00,No special offer,N/A,N/A
+Simvastatin,10001,20mg,90 tablets,Rite Aid,$19.30,Special offers,23.55,19.30
+Simvastatin,10001,20mg,90 tablets,King Kullen,$13.70,No special offer,N/A,N/A
+Simvastatin,90001,20mg,90 tablets,CVS Pharmacy,$28.04,Special offers,33.04,28.04
+Simvastatin,90001,20mg,90 tablets,"Vons Pharmacy
+Pay online",$3.05,Special offers,13.05,3.05
+Simvastatin,90001,20mg,90 tablets,Target (CVS),$28.04,Special offers,33.04,28.04
+Simvastatin,90001,20mg,90 tablets,"Albertsons (Sav-on)
+Pay online",$3.05,Special offers,13.05,3.05
+Simvastatin,90001,20mg,90 tablets,Walgreens,$33.60,Special offers,36.10,33.60
+Simvastatin,90001,20mg,90 tablets,"Pavilions Pharmacy
+Pay online",$3.05,Special offers,13.05,3.05
+Simvastatin,90001,20mg,90 tablets,Ralphs,$19.80,No special offer,N/A,N/A
+Simvastatin,90001,20mg,90 tablets,Costco,$21.99,Special offers,24.99,21.99
+Simvastatin,90001,20mg,90 tablets,Walmart,$24.00,No special offer,N/A,N/A
+Simvastatin,90001,20mg,90 tablets,Walmart Neighborhood Market,$24.00,No special offer,N/A,N/A
+Simvastatin,90001,20mg,90 tablets,Rite Aid,$19.30,Special offers,23.55,19.30
+Simvastatin,90001,20mg,90 tablets,Walgreens Specialty Pharmacy,$33.60,Special offers,36.10,33.60
+Simvastatin,90001,20mg,90 tablets,Capsule Pharmacy,$27.09,No special offer,N/A,N/A
+Simvastatin,60601,20mg,90 tablets,Jewel-Osco,$3.05,Special offers,13.05,3.05
+Simvastatin,60601,20mg,90 tablets,Walgreens,$33.60,Special offers,36.10,33.60
+Simvastatin,60601,20mg,90 tablets,Meijer Pharmacy,$11.30,Special offers,14.79,11.30
+Simvastatin,60601,20mg,90 tablets,CVS Pharmacy,$28.04,Special offers,33.04,28.04
+Simvastatin,60601,20mg,90 tablets,Target (CVS),$28.04,Special offers,33.04,28.04
+Simvastatin,60601,20mg,90 tablets,Mariano's,$19.80,No special offer,N/A,N/A
+Simvastatin,60601,20mg,90 tablets,Walmart,$24.00,No special offer,N/A,N/A
+Simvastatin,60601,20mg,90 tablets,Costco,$21.99,Special offers,24.99,21.99
+Simvastatin,60601,20mg,90 tablets,Aurora Pharmacy,$9.95,No special offer,N/A,N/A
+Simvastatin,60601,20mg,90 tablets,Walmart Neighborhood Market,$24.00,No special offer,N/A,N/A
+Simvastatin,60601,20mg,90 tablets,Walgreens Specialty Pharmacy,$33.60,Special offers,36.10,33.60
+Simvastatin,60601,20mg,90 tablets,Capsule Pharmacy,$27.09,No special offer,N/A,N/A
+Losartan,10001,50mg,30 tablets,CVS Pharmacy,$19.43,Special offers,28.53,19.43
+Losartan,10001,50mg,30 tablets,Walgreens,$11.21,Special offers,23.71,11.21
+Losartan,10001,50mg,30 tablets,ShopRite,$9.84,No special offer,N/A,N/A
+Losartan,10001,50mg,30 tablets,Duane Reade,$11.21,Special offers,23.71,11.21
+Losartan,10001,50mg,30 tablets,"Acme Markets Pharmacy
+Pay online",$2.00,Special offers,10.05,2.00
+Losartan,10001,50mg,30 tablets,Target (CVS),$19.43,Special offers,28.53,19.43
+Losartan,10001,50mg,30 tablets,Wegmans,$5.63,Special offers,11.13,5.63
+Losartan,10001,50mg,30 tablets,Costco,$21.99,Special offers,22.99,21.99
+Losartan,10001,50mg,30 tablets,Capsule Pharmacy,$16.47,No special offer,N/A,N/A
+Losartan,10001,50mg,30 tablets,"ACME Sav-On
+Pay online",$2.00,Special offers,10.05,2.00
+Losartan,10001,50mg,30 tablets,Sams Club,$7.10,Special offers,9.60,7.10
+Losartan,10001,50mg,30 tablets,Walmart,$9.00,Special offers,N/A,N/A
+Losartan,10001,50mg,30 tablets,Walgreens Specialty Pharmacy,$11.21,Special offers,23.71,11.21
+Losartan,10001,50mg,30 tablets,Walmart Neighborhood Market,$9.00,Special offers,N/A,N/A
+Losartan,10001,50mg,30 tablets,King Kullen,$6.87,Special offers,9.84,6.87
+Losartan,10001,50mg,30 tablets,Rite Aid,$11.56,Special offers,15.81,11.56
+Losartan,90001,50mg,30 tablets,CVS Pharmacy,$19.43,Special offers,28.53,19.43
+Losartan,90001,50mg,30 tablets,"Vons Pharmacy
+Pay online",$2.00,Special offers,10.05,2.00
+Losartan,90001,50mg,30 tablets,"Albertsons (Sav-on)
+Pay online",$2.00,Special offers,10.05,2.00
+Losartan,90001,50mg,30 tablets,Walgreens,$11.21,Special offers,23.71,11.21
+Losartan,90001,50mg,30 tablets,"Pavilions Pharmacy
+Pay online",$2.00,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Target (CVS),$19.43,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Ralphs,$7.30,No special offer,N/A,N/A
+Losartan,90001,50mg,30 tablets,Costco,$21.99,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Sams Club,$7.10,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Walmart,$9.00,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Walmart Neighborhood Market,$9.00,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Walgreens Specialty Pharmacy,$11.21,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Rite Aid,$11.56,Special offers,N/A,N/A
+Losartan,90001,50mg,30 tablets,Capsule Pharmacy,$16.47,No special offer,N/A,N/A
+N/A,90001,N/A,N/A,Walgreens,$41.72,Special offers,46.72,41.72
+N/A,90001,N/A,N/A,CVS Pharmacy,$39.70,Special offers,44.05,39.70
+N/A,90001,N/A,N/A,Walmart,$33.73,No special offer,N/A,N/A
+N/A,90001,N/A,N/A,"Vons Pharmacy
+Pay online",$28.21,Special offers,43.21,28.21
+N/A,90001,N/A,N/A,"Albertsons (Sav-on)
+Pay online",$28.21,Special offers,43.21,28.21
+N/A,90001,N/A,N/A,Walmart Neighborhood Market,$33.73,No special offer,N/A,N/A
+N/A,90001,N/A,N/A,Target (CVS),$39.70,Special offers,44.05,39.70
+N/A,90001,N/A,N/A,"Pavilions Pharmacy
+Pay online",$28.21,Special offers,43.21,28.21
+N/A,90001,N/A,N/A,Ralphs,$32.10,No special offer,N/A,N/A
+N/A,90001,N/A,N/A,Costco,$58.90,No special offer,N/A,N/A
+N/A,90001,N/A,N/A,Walgreens Specialty Pharmacy,$41.72,Special offers,46.72,41.72
+N/A,90001,N/A,N/A,Sams Club,$42.24,No special offer,N/A,N/A
+N/A,90001,N/A,N/A,Rite Aid,$54.84,Special offers,59.09,54.84
+N/A,90001,N/A,N/A,Capsule Pharmacy,$54.81,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walgreens,$41.72,Special offers,46.72,41.72
+N/A,60601,N/A,N/A,Walmart,$33.73,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Jewel-Osco,$28.21,Special offers,43.21,28.21
+N/A,60601,N/A,N/A,CVS Pharmacy,$39.70,Special offers,44.05,39.70
+N/A,60601,N/A,N/A,Meijer Pharmacy,$41.72,Special offers,46.19,41.72
+N/A,60601,N/A,N/A,Target (CVS),$39.70,Special offers,44.05,39.70
+N/A,60601,N/A,N/A,Costco,$58.90,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walmart Neighborhood Market,$33.73,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walgreens Specialty Pharmacy,$41.72,Special offers,46.72,41.72
+N/A,60601,N/A,N/A,Mariano's,$32.10,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Sams Club,$42.24,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Aurora Pharmacy,$49.16,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Capsule Pharmacy,$54.81,No special offer,N/A,N/A
+Hydrochlorothiazide,10001,25mg,30 tablets,CVS Pharmacy,$19.22,Special offers,28.12,19.22
+Hydrochlorothiazide,10001,25mg,30 tablets,Walgreens,$2.00,Special offers,4.48,2.00
+Hydrochlorothiazide,10001,25mg,30 tablets,ShopRite,$2.88,Special offers,8.05,2.88
+Hydrochlorothiazide,10001,25mg,30 tablets,Costco,$7.50,Special offers,10.00,7.50
+Hydrochlorothiazide,10001,25mg,30 tablets,Target (CVS),$19.22,Special offers,28.12,19.22
+Hydrochlorothiazide,10001,25mg,30 tablets,Duane Reade,$2.00,Special offers,4.48,2.00
+Hydrochlorothiazide,10001,25mg,30 tablets,"Acme Markets Pharmacy
+Pay online",$2.00,Special offers,8.72,2.00
+Hydrochlorothiazide,10001,25mg,30 tablets,Capsule Pharmacy,$16.95,No special offer,N/A,N/A
+Hydrochlorothiazide,10001,25mg,30 tablets,Wegmans,$0.81,Special offers,5.31,0.81
+Hydrochlorothiazide,10001,25mg,30 tablets,Walmart,$4.00,No special offer,N/A,N/A
+Hydrochlorothiazide,10001,25mg,30 tablets,"ACME Sav-On
+Pay online",$2.00,Special offers,8.72,2.00
+Hydrochlorothiazide,10001,25mg,30 tablets,Walgreens Specialty Pharmacy,$2.00,Special offers,4.48,2.00
+Hydrochlorothiazide,10001,25mg,30 tablets,Rite Aid,$9.00,No special offer,N/A,N/A
+Hydrochlorothiazide,10001,25mg,30 tablets,Walmart Neighborhood Market,$4.00,No special offer,N/A,N/A
+Hydrochlorothiazide,10001,25mg,30 tablets,King Kullen,$2.88,Special offers,8.05,2.88
+Hydrochlorothiazide,90001,25mg,30 tablets,CVS Pharmacy,$19.22,Special offers,28.12,19.22
+Hydrochlorothiazide,90001,25mg,30 tablets,Costco,$7.50,Special offers,10.00,7.50
+Hydrochlorothiazide,90001,25mg,30 tablets,Walgreens,$2.00,Special offers,4.48,2.00
+Hydrochlorothiazide,90001,25mg,30 tablets,"Vons Pharmacy
+Pay online",$2.00,Special offers,8.72,2.00
+Hydrochlorothiazide,90001,25mg,30 tablets,"Albertsons (Sav-on)
+Pay online",$2.00,Special offers,8.72,2.00
+Hydrochlorothiazide,90001,25mg,30 tablets,Target (CVS),$19.22,Special offers,28.12,19.22
+Hydrochlorothiazide,90001,25mg,30 tablets,Ralphs,$6.39,No special offer,N/A,N/A
+Hydrochlorothiazide,90001,25mg,30 tablets,"Pavilions Pharmacy
+Pay online",$2.00,Special offers,8.72,2.00
+Hydrochlorothiazide,90001,25mg,30 tablets,Walmart Neighborhood Market,$4.00,No special offer,N/A,N/A
+Hydrochlorothiazide,90001,25mg,30 tablets,Walgreens Specialty Pharmacy,$2.00,Special offers,4.48,2.00
+Hydrochlorothiazide,90001,25mg,30 tablets,Walmart,$4.00,No special offer,N/A,N/A
+Hydrochlorothiazide,90001,25mg,30 tablets,Capsule Pharmacy,$16.95,No special offer,N/A,N/A
+Hydrochlorothiazide,90001,25mg,30 tablets,Rite Aid,$9.00,No special offer,N/A,N/A
+N/A,10001,N/A,N/A,CVS Pharmacy,$20.99,Special offers,30.09,20.99
+N/A,10001,N/A,N/A,Walgreens,$2.00,Special offers,9.26,2.00
+N/A,10001,N/A,N/A,Duane Reade,$2.00,Special offers,9.26,2.00
+N/A,10001,N/A,N/A,Target (CVS),$20.99,Special offers,30.09,20.99
+N/A,10001,N/A,N/A,Costco,$16.50,Special offers,19.00,16.50
+N/A,10001,N/A,N/A,ShopRite,$6.01,Special offers,10.30,6.01
+N/A,10001,N/A,N/A,Capsule Pharmacy,$18.18,No special offer,N/A,N/A
+N/A,10001,N/A,N/A,"Acme Markets Pharmacy
+Pay online",$2.00,Special offers,10.01,2.00
+N/A,10001,N/A,N/A,Wegmans,$7.05,Special offers,11.55,7.05
+N/A,10001,N/A,N/A,King Kullen,$6.01,Special offers,10.30,6.01
+N/A,10001,N/A,N/A,"ACME Sav-On
+Pay online",$2.00,Special offers,10.01,2.00
+N/A,10001,N/A,N/A,Walgreens Specialty Pharmacy,$2.00,Special offers,9.26,2.00
+N/A,10001,N/A,N/A,Walmart,$4.00,No special offer,N/A,N/A
+N/A,10001,N/A,N/A,Rite Aid,$12.06,Special offers,13.06,12.06
+N/A,10001,N/A,N/A,Walmart Neighborhood Market,$4.00,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walgreens,$2.00,Special offers,9.26,2.00
+N/A,60601,N/A,N/A,Jewel-Osco,$2.00,Special offers,10.01,2.00
+N/A,60601,N/A,N/A,CVS Pharmacy,$20.99,Special offers,30.09,20.99
+N/A,60601,N/A,N/A,Meijer Pharmacy,$9.26,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Target (CVS),$20.99,Special offers,30.09,20.99
+N/A,60601,N/A,N/A,Costco,$16.50,Special offers,19.00,16.50
+N/A,60601,N/A,N/A,Mariano's,$5.78,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walmart,$4.00,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walgreens Specialty Pharmacy,$2.00,Special offers,9.26,2.00
+N/A,60601,N/A,N/A,Aurora Pharmacy,$8.32,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Walmart Neighborhood Market,$4.00,No special offer,N/A,N/A
+N/A,60601,N/A,N/A,Capsule Pharmacy,$18.18,No special offer,N/A,N/A
